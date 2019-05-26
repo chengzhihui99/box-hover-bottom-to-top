@@ -1,0 +1,15 @@
+$(function(){
+	$(".box1").hover(function(){
+		$(this).children(".mask").stop().animate({
+			top:0,
+			display:"block",
+			opacity:"1",
+		},750);
+	},function(){
+		$(this).children(".mask").stop().animate({
+			top:"100%",
+			display:"none",
+			opacity:"0",
+		},550);
+	});
+});
