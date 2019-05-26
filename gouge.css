@@ -79,6 +79,7 @@
 	.mask_in .more{
 		padding: 8px 15px;
 		font-size:14px;
+		width: 40%;
 	}
 }
 h2{
