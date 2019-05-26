@@ -70,6 +70,7 @@
 @media screen and (max-width:768px) {
 	.box1{
 		width:100%;
+		margin-top: 2px;
 	}
 	.box1_in{
 		border-right:0;
