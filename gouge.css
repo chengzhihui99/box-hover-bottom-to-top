@@ -65,7 +65,7 @@
 }
 @media screen and (min-width:768px) and (max-width:1200px) {
 	.mask_in .more{
-		padding: 8px 20px;
+		padding: 8px 15px;
 	}
 }
 @media screen and (max-width:768px) {
@@ -77,7 +77,7 @@
 		border-right:0;
 	}	
 	.mask_in .more{
-		padding: 8px 20px;
+		padding: 8px 15px;
 		font-size:16px;
 	}
 }
